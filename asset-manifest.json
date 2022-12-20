@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/photogramm/static/css/main.71bbc6fc.css",
+    "main.js": "/photogramm/static/js/main.3603f4a6.js",
+    "index.html": "/photogramm/index.html",
+    "main.71bbc6fc.css.map": "/photogramm/static/css/main.71bbc6fc.css.map",
+    "main.3603f4a6.js.map": "/photogramm/static/js/main.3603f4a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71bbc6fc.css",
+    "static/js/main.3603f4a6.js"
+  ]
+}
